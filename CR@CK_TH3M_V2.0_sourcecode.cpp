@@ -60,7 +60,7 @@ int main()
 
 //========================================== special thanks section
         // special thanks to
-        else if(user_input == "thanks?"){
+        else if(user_input == "thanks"){
             system("clear");
             cout << "Before starting, A very special thanks to\n\nT\t\tHE_HACKRERBOI, \n\n\t\tENCODED GUY \nand last but not least \n\n\t\tCODE_WITH_HARRY";
             cout << "\n instagram\n\n@thehackerb0i\n@codewithharry\n@encodedguy";
